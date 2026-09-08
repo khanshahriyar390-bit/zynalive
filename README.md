@@ -1,1 +1,2 @@
-# zynalive
+# ZynaLive
+ZynaLive live streaming application.
